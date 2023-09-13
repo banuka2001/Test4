@@ -4,16 +4,16 @@ body {
     
 }
 
-@font-face {
+/* @font-face {
     font-family: Headings;
     src: url(/EMOTIONAL\ CHANGING\ DEMO.ttf);
-}
+} */
 
 h1 {
     color: red;
     font-size: 32pt;
     letter-spacing: 5px;
-    font-family: Headings;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 
 
 }
