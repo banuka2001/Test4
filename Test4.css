@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+@font-face {
+    font-family: Headings;
+    src: url(/EMOTIONAL\ CHANGING\ DEMO.ttf);
+}
+
+h1 {
+    color: red;
+    font-size: 32pt;
+    letter-spacing: 5px;
+    font-family: Headings;
+
+
+}
+
+h2 {
+    color: blue;
+    font-size: 18pt;
+}
+
+a {
+    font-size: 16pt;
+}
+
+span {
+    color: red;
+    font-size: 16pt;
+}
+
+#link {
+    color: black;
+    font-size: 14pt;
+}
